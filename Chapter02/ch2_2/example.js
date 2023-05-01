@@ -34,4 +34,3 @@ function touchMove() {
 function touchEnd() {
     //指が離されたら(マウスアップ)
 }
-u
